@@ -5,7 +5,9 @@ export default function App() {
     <>
       <main>
         <section>
-          <h1>SumTube - Youtube video Summarizer</h1>
+          <h1>
+            Youtube video <span>Summarizer</span>
+          </h1>
           <p>
             SumTube summarizes YouTube videos by generating concise text
             summaries using AI. <br />
@@ -13,8 +15,7 @@ export default function App() {
           </p>
         </section>
         <section id="form">
-          <label htmlFor="input">Youtube video link</label>
-          <input type="text" id="input" />
+          <input type="text" placeholder="Youtube video link" />
           <button>Summarize video</button>
         </section>
       </main>
