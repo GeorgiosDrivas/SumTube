@@ -1,0 +1,41 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  text-align: center;
+}
+
+section p {
+  margin: 0;
+}
+
+label {
+  text-align: start;
+  display: block;
+}
+
+#form {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=main.css.map */
