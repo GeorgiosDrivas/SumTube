@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 45px;
   font-weight: 700;
 }
 
@@ -31,8 +31,8 @@ button {
 input {
   padding-left: 10px;
   font-size: 15px;
-  width: 300px;
-  height: 25px;
+  width: 400px;
+  height: 45px;
   border-radius: 7px;
   border: 1px solid #614efa;
 }
@@ -55,7 +55,7 @@ section p {
 }
 
 #form {
-  margin-top: 50px;
+  margin-top: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
